@@ -1,0 +1,6 @@
+/.mypy_cache/
+/.vscode/
+/extranjeros/
+/temp/
+/images/
+error.log
